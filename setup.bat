@@ -1,0 +1,1 @@
+cd %~dp0 && start ./src/AutoClickerSetup/Release/setup.exe

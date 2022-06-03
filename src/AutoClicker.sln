@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoClicker", "AutoClicker\AutoClicker.csproj", "{9C053480-2534-4113-B373-33E0BDAD55CF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoClickerSetup", "AutoClickerSetup\AutoClickerSetup.vdproj", "{EA80EA99-E2F7-425C-BCB6-FA541954E85A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C053480-2534-4113-B373-33E0BDAD55CF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{9C053480-2534-4113-B373-33E0BDAD55CF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{9C053480-2534-4113-B373-33E0BDAD55CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C053480-2534-4113-B373-33E0BDAD55CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA80EA99-E2F7-425C-BCB6-FA541954E85A}.Debug|Any CPU.ActiveCfg = Release
+		{EA80EA99-E2F7-425C-BCB6-FA541954E85A}.Debug|Any CPU.Build.0 = Release
+		{EA80EA99-E2F7-425C-BCB6-FA541954E85A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B815EE8F-8FD9-4F05-89B7-0FCFD82A20A4}
+	EndGlobalSection
+EndGlobal

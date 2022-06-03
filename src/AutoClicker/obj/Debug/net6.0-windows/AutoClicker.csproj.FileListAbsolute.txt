@@ -1,0 +1,17 @@
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.exe
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.deps.json
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.runtimeconfig.json
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.dll
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.pdb
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.csproj.AssemblyReference.cache
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.AssemblyInfoInputs.cache
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.AssemblyInfo.cs
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.csproj.CoreCompileInputs.cache
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.dll
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\refint\AutoClicker.dll
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.pdb
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.genruntimeconfig.cache
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\ref\AutoClicker.dll
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.Form1.resources
+C:\MyProjects\Languages\CSharp\AutoClicker\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.csproj.GenerateResource.cache
